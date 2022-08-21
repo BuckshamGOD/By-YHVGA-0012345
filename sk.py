@@ -18,6 +18,7 @@ pos = requests.post(f"https://api.stripe.com/v1/tokens", headers={'Content-Type'
 
 if 'Invalid API Key provided' in pos.text:
     print("DEAD!")
+    print("────────────────────")
     print("Sk:"+skkey)
     print("────────────────────")
     print("Reason: Invalid API Key provided")
