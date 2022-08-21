@@ -47,7 +47,7 @@ elif 'test_mode_live_card' in pos.text:
     print("────────────────────")
     print("Sk:"+skkey)
     print("────────────────────")
-    print("Reason: test_mode_live_card""")
+    print("Reason: test_mode_live_card")
 
 elif 'Your Card Was Declined' in pos.text:
     print("LIVE! >✅")
