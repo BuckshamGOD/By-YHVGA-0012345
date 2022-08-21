@@ -9,7 +9,7 @@ skkey = input("Enter Sk!: ")
 os.system("clear")
                                                                        
 if int(len(skkey)) == 0:
-print("Enter Sk!")
+    print("Enter Sk!")
 
 
 
