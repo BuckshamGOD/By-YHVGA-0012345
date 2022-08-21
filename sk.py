@@ -35,7 +35,8 @@ elif 'api_key_expired' in pos.text:
     print("────────────────────")
     print("Reason: api_key_expired""")
 elif 'testmode_charges_only' in pos.text:                           
-    print("DEAD!")                                                         print("────────────────────")
+    print("DEAD!")                                                   
+    print("────────────────────")
     print("Sk:"+skkey)
     print("────────────────────")
     print("Reason: testmode_charges_only")
