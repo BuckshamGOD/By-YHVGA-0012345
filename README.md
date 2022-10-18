@@ -1,6 +1,6 @@
 # Made By @yhvgaaa
 
 IF YOU WANT TO CONTRIBUTE AND/OR GIVE SUGGESTIONS, CONTACT ME ON TELEGRAM
-'''python
+-'''python
 print("Hello World")
 '''
